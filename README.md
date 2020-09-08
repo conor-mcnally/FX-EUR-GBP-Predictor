@@ -1,4 +1,4 @@
-## H2 FX (EUR/GBP) Stock Price Predictor 
+FX (EUR/GBP) Stock Price Predictor 
   
 FX_Data_Gatherer.py to stream EUR/GBP FX info at 15 minute intervals. Outputs to EUR-GBP.csv
  
